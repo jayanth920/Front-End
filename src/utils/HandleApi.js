@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const baseUrl = "https://backend-mernlab.fly.dev/"
+const baseUrl = "https://autumn-butterfly-3437.fly.dev/"
 
 const getAllToDo = (setToDo) => {
     axios
