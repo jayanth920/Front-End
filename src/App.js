@@ -34,7 +34,6 @@ function App() {
             value={text}
             onChange={(e) => setText(e.target.value)}
           />
-
           <div
             className="add"
             onClick={isUpdating ?
